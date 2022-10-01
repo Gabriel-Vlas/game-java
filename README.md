@@ -1,2 +1,2 @@
-# game-java-nao-mire-atire
+# game-java
 Jogo 2D, pixelado
